@@ -1,2 +1,2 @@
 # hyperblog
-un blog sobre mi pagina web o portafolio
+Un blog increíble para el curso de Git y Github de Platzi
