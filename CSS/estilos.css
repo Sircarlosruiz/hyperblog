@@ -45,13 +45,10 @@ body
 {
     font-size: 20px;
 }
-<<<<<<< HEAD
 #post
 {
-    background: white;
-    padding: 1em;
+    padding: 1px;
 }
-=======
 
 #footer{
     background: #777;
@@ -59,4 +56,3 @@ body
     text-align: center;
     padding: 1px;
 }
->>>>>>> footer
